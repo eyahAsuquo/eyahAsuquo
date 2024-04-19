@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @eyahAsuquo
-  an aspiring . Welcome to my GitHub profile!
-  
+- 👋 Hi, I’m @eyahAsuquo, an aspiring Flutter & Frontend Developer. 
 - 👀 I’m interested in Flutter & Frontend Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open-source projects and with fellow developers!
