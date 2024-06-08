@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter & Frontend Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open-source projects and with fellow developers!
-- 📫 How to reach me ...
+
 
 
 <!---
